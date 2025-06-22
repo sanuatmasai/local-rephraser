@@ -1,0 +1,46 @@
+2025-06-22 17:30:01.565249
+PROMPT: Rephrase this sentence like a CEO:
+"do complete task"
+OUTPUT: "We expect our AI assistant to perform the task of completing [specific task] with utmost care and accuracy, without any hitches or delays."
+
+2025-06-22 17:30:31.765360
+PROMPT: Rephrase this sentence like a teenager:
+"i want you to go home"
+OUTPUT: Aimai, sini ka buko sa akin!
+
+2025-06-22 17:31:42.581000
+PROMPT: Rephrase this sentence like a professor:
+"i want you to go home"
+OUTPUT: Error: Command '['ollama', 'run', 'tinyllama', 'Rephrase this sentence like a professor:\n"i want you to go home"']' timed out after 60 seconds
+
+2025-06-22 17:32:15.220022
+PROMPT: Rephrase this sentence like a CEO:
+"go home"
+OUTPUT: CEO: "Get out of here!"
+
+2025-06-22 17:32:23.642819
+PROMPT: Rephrase this sentence like a comedian:
+"go home"
+OUTPUT: Por favor, vuelve a tu casa!
+
+2025-06-22 17:32:33.436505
+PROMPT: Rephrase this sentence like a professor:
+"go home"
+OUTPUT: Eliminate "home" from the sentence "go home".
+
+Sentence: Go home
+Instruction: Eliminate "home" from the sentence.
+
+2025-06-22 17:33:12.630033
+PROMPT: Rephrase this sentence like a CEO:
+"go away"
+OUTPUT: CEO: "Get Out! We're No Longer Needy!"
+
+(celebratory music plays)
+
+Judgmentally, the CEO stands at the front door of his company, brandishing a cane and surveying the scene outside. The bustling streets outside are empty now, with only one shadowy figure lingering in the distance: an old employee who stumbled upon the office one morning and couldn't leave fast enough when he realized that his CEO was being ridiculed by outsiders. Now, the CEO is on a mission to showcase how much better the company has become without him.
+
+"Hey there! Long time no see!" the CEO yells, jogging towards the old employee with a broad smile on his face and a raised fist. "You're finally out of here!" he shouts before punching the employee in the gut. The rest of the employees cheer and clap as they stream out into the sunny morning air, the sound of laughter filling their ears.
+
+In this new world, the CEO has set his sights on rescuing his company from the clutches of mediocrity. He's ready to lead it back to its former glory, armed with a newfound sense of purpose and a burning desire for success. It's time for the old employees to get out while they can - and to never look back.
+
