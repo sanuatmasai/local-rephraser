@@ -1,0 +1,2 @@
+# local-rephraser
+Build an AI App Using ONLY Local Inference
